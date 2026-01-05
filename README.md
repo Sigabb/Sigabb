@@ -20,7 +20,7 @@
 
 <div align="left">
   <img src=https://imgs.search.brave.com/TlWKz1l970qI6KiI4laqti-s9NknbveAGxHTc6Gb2RA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMjI2LzIyNjc3/Ny5wbmc />
-  <img width="12" />
+  <img width="5" />
 </div>
 
 <div align="left">
